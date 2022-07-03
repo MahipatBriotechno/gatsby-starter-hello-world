@@ -31,5 +31,6 @@ const useStyles = makeStyles({
     textDecoration: 'none'
   }
 });
+export default useStyles
 
-export { useStyles };
+

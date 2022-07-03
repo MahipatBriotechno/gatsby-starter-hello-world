@@ -6,7 +6,7 @@ import DialogContent from "@material-ui/core/DialogContent";
 import DialogContentText from "@material-ui/core/DialogContentText";
 import AutoCompleteBox from "../AutoCompleteBox";
 import SelectMenu from "../SelectMenu";
-import { useStyles } from "./Home.styles";
+import  useStyles  from "./Home.styles";
 import Tennis from "../../../../images/icon/Tennis.svg";
 import Badminton from "../../../../images/icon/Badminton.svg";
 import Squash from "../../../../images/icon/Squash.svg";
