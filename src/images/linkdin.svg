@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63" height="66" viewBox="0 0 63 66">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3303" data-name="Rectangle 3303" width="63" height="66" transform="translate(0.25 0)"/>
+    </clipPath>
+  </defs>
+  <g id="Linkedin_r_logo" data-name="Linkedin r logo" transform="translate(-0.25 0)" clip-path="url(#clip-path)">
+    <ellipse id="Ellipse_527" data-name="Ellipse 527" cx="31.5" cy="33" rx="31.5" ry="33" transform="translate(0.25 0)" fill="#edf8f8"/>
+    <path id="_367773" data-name="367773" d="M93.227,64H66.714A2.632,2.632,0,0,0,64,66.568V94.143a2.85,2.85,0,0,0,2.714,2.825h26.5a2.712,2.712,0,0,0,2.549-2.825V66.568A2.481,2.481,0,0,0,93.227,64ZM73.847,91.48H69.3V76.8h4.551ZM71.729,74.563H71.7a2.475,2.475,0,1,1,.033,0ZM90.48,91.48H85.929V83.451c0-1.924-.662-3.238-2.309-3.238a2.5,2.5,0,0,0-2.334,1.743,3.291,3.291,0,0,0-.157,1.159V91.48H76.578V76.8h4.551v2.044a4.586,4.586,0,0,1,4.1-2.387c2.987,0,5.246,2.044,5.246,6.449Z" transform="translate(-47.932 -47.484)" fill="#1b8186"/>
+  </g>
+</svg>

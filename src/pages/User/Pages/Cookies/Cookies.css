@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.backdrop {
+  width: 100%;
+}
+
+.imgtxt1 {
+  color: #51DEE5;
+  margin-top: -7%;
+  margin-left: 10%;
+  font-size: 22px;
+  font-family: 'Plus Jakarta Display', sans-serif;
+
+}
+
+.imgtxt2 {
+ 
+  color: white;
+  font-size: 45px;
+  margin-left: 10%;
+  font-family: 'Plus Jakarta Display', sans-serif;
+
+}
+
+.div-root{
+  border-radius: 10px;
+  background-color: #ffffff;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  margin-right: 142px;
+  margin-left: 129px;
+}
+
+.Heading {
+  padding-top: 4%;
+  margin-top: 10%;
+  font-size: 38px;
+  margin-left: 4%;
+  color: #0A3133;
+  font-family: 'Poppins', sans-serif;
+}
+
+.pera1 {
+  color: #0A3133;
+  font-size: 20px;
+  margin-left: 4%;
+  text-align: left;
+  font-family: 'Poppins', sans-serif;
+}
+
+.pera2 {
+  color: #0A3133;
+  font-size: 20px;
+  margin-left: 4%;
+  text-align: left;
+  font-family: 'Poppins', sans-serif;
+}
+
+.pera3 {
+  color: #0A3133;
+  font-size: 20px;
+  margin-left: 4%;
+  text-align: left;
+  font-family: 'Poppins', sans-serif;
+}
+
+.pera4 {
+  color: #0A3133;
+  font-size: 20px;
+  margin-left: 4%;
+  padding-bottom: 7%;
+  text-align: left;
+  font-family: 'Poppins', sans-serif;
+}
+
+.footerUi {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #a3ecf0;
+  border: black;
+}
+
+.footer {
+  float: left;
+
+}
+
+.footer .footerlink {
+  display: block;
+  color: dimgray;
+  text-align: center;
+
+  text-decoration: none;
+}
+
+
+.footer .footerlink:hover {
+  color: blue;
+}

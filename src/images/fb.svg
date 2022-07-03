@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66" height="66" viewBox="0 0 66 66">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_3304" data-name="Rectangle 3304" width="66" height="66" transform="translate(0.002 0.002)"/>
+    </clipPath>
+  </defs>
+  <g id="Facebook_r_logo" data-name="Facebook r logo" transform="translate(-0.002 -0.002)" clip-path="url(#clip-path)">
+    <circle id="Ellipse_527" data-name="Ellipse 527" cx="33" cy="33" r="33" transform="translate(0.002 0.002)" fill="#edf8f8"/>
+    <g id="cdnlogo.com_facebook_1_" data-name="cdnlogo.com_facebook (1)" transform="translate(14.408 14.408)">
+      <path id="Path_3790" data-name="Path 3790" d="M187.188,88.594a18.594,18.594,0,1,0-21.5,18.369V93.97h-4.722V88.594h4.722V84.5c0-4.66,2.777-7.235,7.023-7.235a28.586,28.586,0,0,1,4.163.363V82.2H174.53a2.688,2.688,0,0,0-3.031,2.905v3.488h5.156l-.824,5.376H171.5v12.993a18.6,18.6,0,0,0,15.689-18.369Z" transform="translate(-150 -70)" fill="#1b8186" fill-rule="evenodd"/>
+      <path id="Path_3791" data-name="Path 3791" d="M241.565,137.495l.824-5.376h-5.156V128.63a2.688,2.688,0,0,1,3.031-2.905h2.346v-4.576a28.582,28.582,0,0,0-4.163-.363c-4.246,0-7.023,2.573-7.023,7.235v4.1H226.7v5.376h4.722v12.993a18.691,18.691,0,0,0,2.9.225,19.015,19.015,0,0,0,2.905-.225V137.495h4.333Z" transform="translate(-215.733 -113.525)" fill="#edf8f8" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

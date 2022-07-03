@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100.443" height="34.708" viewBox="0 0 100.443 34.708">
+  <g id="Group_1613" data-name="Group 1613" transform="translate(-1721.93 -18.931)">
+    <text id="Sign_in" data-name="Sign in" transform="translate(1767.373 43.784)" font-size="18" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Sign in</tspan></text>
+    <path id="Path_3841" data-name="Path 3841" d="M9.641,0H25.067a9.641,9.641,0,0,1,9.641,9.641V25.067a9.641,9.641,0,0,1-9.641,9.641H9.641A9.641,9.641,0,0,1,0,25.067V9.641A9.641,9.641,0,0,1,9.641,0Z" transform="translate(1721.93 18.931)"/>
+    <path id="Path_4116" data-name="Path 4116" d="M16,21.224H13.836V17.612a1.445,1.445,0,0,0-1.445-1.445H6.612a1.445,1.445,0,0,0-1.445,1.445v3.612H3V17.612A3.616,3.616,0,0,1,6.612,14h5.779A3.616,3.616,0,0,1,16,17.612Z" transform="translate(1729.414 23.729)" fill="#fff"/>
+    <path id="Path_4117" data-name="Path 4117" d="M10.334,8.669a4.334,4.334,0,1,1,4.334-4.334A4.334,4.334,0,0,1,10.334,8.669Zm0-6.5A2.167,2.167,0,1,0,12.5,4.334,2.167,2.167,0,0,0,10.334,2.167Z" transform="translate(1728.582 27.615)" fill="#fff"/>
+  </g>
+</svg>

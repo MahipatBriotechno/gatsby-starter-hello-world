@@ -1,0 +1,75 @@
+.select {
+  /* min-height: 40px; */
+  border: 1px solid #c4c4c4;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0;
+  position: relative;
+  min-width: 220px;
+  border-radius: 4px;
+}
+
+.select__label {
+  display: block;
+  height: 40px;
+  justify-self: flex-start;
+  font: inherit;
+  background: none;
+  border: 0;
+  width: 100%;
+  text-align: left;
+  padding: 0 20px;
+}
+
+.select__label::after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 0;
+  border-width: 8px;
+  border-style: solid;
+  border-color: #ccc transparent transparent transparent;
+  position: absolute;
+  right: 20px;
+  top: 24px;
+}
+
+ul.select__options {
+  box-shadow: 0px 0px 3px;
+  margin: 0;
+  z-index: 11;
+  padding: 0;
+  list-style: none;
+  position: absolute;
+  left: 0;
+  top: 56px;
+  width: 100%;
+  border: 1px solid #eee;
+}
+
+ul.select__options > li + li {
+  border-top: 1px solid #eee;
+}
+
+ul.select__options > li > button {
+  background: #fff;
+  width: 100%;
+  border: 0;
+  text-align: left;
+  font: inherit;
+}
+
+ul.select__options > li > button > .option-img-text {
+  padding: 0px 20px;
+  display: flex;
+  gap: 15px;
+  height: 50px;
+  background-color: #fff;
+  align-items: center;
+}
+ul.select__options > li > button > .option-img-text:hover {
+  background-color: #209ca2;
+  color: #fff;
+  cursor: pointer;
+}

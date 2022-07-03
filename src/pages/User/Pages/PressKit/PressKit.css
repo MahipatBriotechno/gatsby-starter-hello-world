@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+.img3 {
+  width: 100%;
+}
+
+.p2text {
+  color: #51DEE5;
+  margin-top: -8%;
+  font-size: 24px;
+  margin-left: 10%;
+  font-weight: 200;
+  margin-bottom: 5px;
+  font-family: 'Plus Jakarta Display', sans-serif;
+}
+
+.p2text2 {
+  color: #fff;
+  font-size: 48px;
+  margin-left: 10%;
+  font-weight: 500;
+  font-style: normal;
+  font-family: 'Plus Jakarta Display', sans-serif;
+}
+
+.p2disc {
+  margin-left: 10%;
+  margin-top: 8%;
+  font-size: 20px;
+  margin-bottom: 40px;
+  color: #0A3133;
+  font-style: normal;
+  font-weight: 500;
+  font-family: 'Poppins', sans-serif;
+}
+
+.p2button {
+  margin-left: 10%;
+  background-color: #209CA2;
+  color: #fff;
+  border: 0;
+  height: 58px;
+  width: 296px;
+  border-radius: 10px;
+  font-size: 16px;
+  padding: -20px;
+  font-family: 'Plus Jakarta Display', sans-serif;
+}
+
+.p2img {
+  float: right;
+  margin-right: 15%;
+  margin-top: -18%;
+  height: 448px;
+  width: 302px;
+  margin-bottom: 50px;
+}
+
+.footerUi {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #a3ecf0;
+  border: black;
+}
+
+.footer {
+  float: left;
+
+}
+
+.footer .footerlink {
+  display: block;
+  color: dimgray;
+  text-align: center;
+
+  text-decoration: none;
+}
+
+
+.footer .footerlink:hover {
+  color: blue;
+}

@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans&display=swap');
+*{
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  
+}
+.line1{
+    text-align: center;
+    font-size: 23px;
+    color: #0A3133;
+    margin-top: 5%;
+  }
+  .img1{
+    width: 100%;
+    height: 400px;
+  }
+  .img2{
+    width: 100px;
+    height: 100px;
+    margin-top: -5.5%;
+    margin-left: 47%;
+  }
+  .playstore{
+    margin-left: 36%;
+    margin-top: 3%;
+    height: 77px;
+    width: 413px;
+  }
+  .footerUi {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #a3ecf0;
+    border: black;
+  }
+  
+   .footer {
+   float: left;
+ 
+  }
+  
+  .footer .footerlink {
+    display: block;
+    color: dimgray;
+    text-align: center;
+    
+    text-decoration: none;
+  }
+  
+  
+  .footer .footerlink:hover {
+    color: blue;
+  } 

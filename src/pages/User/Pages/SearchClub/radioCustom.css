@@ -1,0 +1,76 @@
+
+.radioCustom .image {
+    background-position: center center;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+.radioCustom .image:hover {
+    opacity: 1;
+}
+.radioCustom .radio-img 
+input {
+    display: none;
+}
+.radioCustom .radio-img 
+.image {
+    border-radius: 8px;
+    cursor: pointer;
+    border: 1px solid #53b768;
+    padding: 10px 10px;
+    width: 57px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+}
+.radioCustom{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.radioCustom .radio-img 
+.image .logo {
+    width: 36px;
+    height: 36px;
+    border-radius: 50px;
+}
+.radioCustom .radio-img 
+.image .title {
+    color: #000;
+    font-weight: 600;
+}
+.radioCustom .radio-img 
+.image .righticon {
+    height: 16px;
+    width: 16px;
+    position: absolute;
+    margin-top: -16px;
+    margin-left: 20px;
+    display: none;
+}
+.radioCustom .radio-img 
+input:checked + .image {
+    /* background: linear-gradient(90deg, #bb36ff 0%, #dc7fb6 100%); */
+    background: #53b768;
+}
+.radioCustom .radio-img 
+input:checked + .image .title {
+    color: #fff;
+}
+.radioCustom .radio-img 
+input:checked + .image .righticon {
+    display: block;
+}
+
+
+
+/* .radioCustom .radio-img:last-of-type::before{
+    content: " .makeStyles-time_item-20";
+   
+    float: right;
+    top: 25%;
+    
+} */

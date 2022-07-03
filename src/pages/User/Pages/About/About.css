@@ -1,0 +1,251 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans&display=swap');
+
+.p1img {
+  width: 100%;
+}
+
+.p1text {
+  color: #32E6EF;
+  font-size: 15px;
+  margin-bottom: 10px;
+  margin-top: -45%;
+  margin-left: 12%;
+  font-weight: 500;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+.span0 {
+  color: #209CA2;
+  font-family: 'Poppins' sans-serif;
+  font-weight: 600;
+}
+
+.p1text2 {
+  color: #fff;
+  font-size: 30px;
+  margin-left: 12%;
+  font-family: 'Poppins', sans-serif;
+}
+
+.p1disc1 {
+  margin-left: 10%;
+  margin-top: 6%;
+  font-size: 15px;
+  text-align: justify;
+  font-family: 'Poppins', sans-serif;
+  color: #0A3133 !important;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.p1disc {
+  margin-left: 10%;
+  font-size: 15px;
+  text-align: justify;
+  font-family: 'Poppins', sans-serif;
+  color: #0A3133;
+  font-style: normal;
+  font-weight: 450;
+}
+
+.p1button {
+  background-color: #209CA2;
+  color: #fff;
+  border: 0;
+  display: flex;
+  font-style: normal;
+  align-items: center;
+  margin-left: 15%;
+  height: 58px;
+  width: 296px;
+  font-weight: 400;
+  justify-content: center;
+  border-radius: 10px;
+  font-size: 15px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.p1phone1 {
+  margin-left: 50%;
+  margin-top: -42%;
+  height: 579px;
+  width: 292px;
+}
+
+.phone1 :hover {
+  color: #209CA2;
+}
+
+.p1phone2 {
+  margin-left: 72%;
+ 
+  margin-top: -8%;
+  height: 633px;
+  width: 292px;
+
+}
+
+.p1middleimg {
+  margin-top: 25%;
+  margin-left: 15%;
+  height: 350px;
+  height: 370px;
+  width: 282px;
+}
+
+.p1middledisc {
+  margin-left: 36%;
+  margin-top: -21%;
+  font-size: 15px;
+  font-family: 'Poppins', sans-serif;
+  color: #0A3133;
+}
+
+.quote {
+  position: absolute;
+  display: flex;
+  margin-top: -0.5%;
+  height: 56px;
+  width: 230px;
+  margin-left: -3.5%;
+  color: #0A3133
+}
+
+.p1last1img {
+  margin-top: 35%;
+  margin-left: 10%;
+  position: absolute;
+}
+
+.p1last2img {
+  position: absolute;
+  margin-left: 27%;
+  margin-top: 27%;
+}
+
+.p1lastdisc1 {
+ font-size: 36px;
+    margin-left: 52%;
+    margin-top: 30%;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    color: #0A3133;
+}
+
+.span1 {
+  color: #209CA2;
+}
+
+.span2 {
+  color: #209CA2;
+}
+
+.p1lastdisc2 {
+  margin-left: 60%;
+  font-size: 18px;
+  font-family: 'Poppins', sans-serif;
+  color: #0A3133;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.p1lastbutton1 {
+  background-color: #F4F5F7;
+  color: #209CA2;
+  border: none;
+  margin-left: 55%;
+  height: 30px;
+  width: 30px;
+}
+
+.p1lastdisc3 {
+  margin-left: 60%;
+  margin-top: -2.5%;
+  font-size: 16px;
+  align-items: center;
+  display: flex;
+  color: #0A3133;
+  justify-content: flex-start;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.p1lastdisc4 {
+  margin-left: 60%;
+  margin-top: -2.5%;
+  font-size: 16px;
+  align-items: center;
+  display: flex;
+  color: #0A3133;
+  justify-content: flex-start;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.p1lastdisc5 {
+  margin-left: 60%;
+  margin-top: -2.5%;
+  font-size: 16px;
+  align-items: center;
+  display: flex;
+  color: #0A3133;
+  justify-content: flex-start;
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.p1lastbutton {
+  background-color: #209CA2;
+  color: #fff;
+  border: 0;
+  margin-left: 66%;
+  height: 58px;
+  width: 238px;
+  border-radius: 10px;
+  font-size: 15px;
+  font-family: 'Plus Jakarta Display', sans-serif;
+}
+
+.p1lastpara {
+  margin-left: 31%;
+  margin-top: -5.5%;
+  font-size: 15px;
+  font-family: 'Poppins', sans-serif;
+  color: #0A3133;
+}
+
+.quote1 {
+  margin-top: 4%;
+    margin-left: 31%;
+
+}
+
+.footerUi {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #a3ecf0;
+  border: black;
+}
+
+.footer {
+  float: left;
+
+}
+
+.footer .footerlink {
+  display: block;
+  color: dimgray;
+  text-align: center;
+
+  text-decoration: none;
+}
+
+
+.footer .footerlink:hover {
+  color: blue;
+}
